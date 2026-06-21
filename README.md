@@ -1,4 +1,4 @@
-# Personal Website (carlosmarchani.github.io)
+# Personal Website (marchani.github.io)
 
 ## Background
 This personal website is developed using CSS and HTML.
