@@ -2,7 +2,6 @@
 var _CONTENT = [
 	"Hi, I'm Carlos Marchani.",
 	"I'm a software engineer.",
-	"I'm a video game developer.",
     "The Matrix has you...",
     ":)"
 ];
